@@ -1,0 +1,21 @@
+Ejercicio 1: Programacion con Python
+
+El objetivo de este ejercicio es evaluar la fluidez con el manejo de Python y la capacidad de resolver problemas.
+No nos importa que sepas como hacer las cosas de memoria entonces podes pedir ayuda:
+- Consultando con la documentacion. https://rickandmortyapi.com/documentation/
+- Preguntandonos a nosotros
+- Con ChatGPT
+- Con Google/Stack Overflow
+
+Todo el ejercicio va a ser basado en consultar informacion de la API de Rick y Morty (https://rickandmortyapi.com/) 
+e imprimir informacion consultada.
+
+Vas a encontrar que en esta carpeta hay un archivo main.py donde va a estar la base de lo que vas a correr.
+Tambien hay una carpeta src donde dentro esta el archivo rick_and_morty.py con una clase encargada de la interaccion con la API
+
+-----
+
+## Consigna 1: Imprimir cuantos personajes hay en la serie ##
+
+
+## Consigna 2: Imprimir en qué episodios aparece Rick Sanchez ##

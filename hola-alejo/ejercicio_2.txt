@@ -1,0 +1,30 @@
+Ejercicio 2: Diseno de Sistema
+
+Este ejercicio es mas teórico en donde vamos a plantear una situacion y vamos a conversar una posible solucion juntos.
+
+Si entras a Flipando vamos a tener muchas de estas instancias donde vamos a tener que resolver problemas para un cliente y el comienzo suele 
+ser conversar sobre el problema e intentar mapear una solucion. Esto es un simulacro de esa situacion.
+
+
+Consigna:
+
+Asumamos que Uber es cliente de Flipando y que Uber no está totalmente regularizado en Uruguay. 
+
+A veces los conductores de Uber tienen incidentes donde Uber les asiste. Estos son:
+  - Multas por transportar pasajeros
+  - Secuestro del auto por parte de la policía
+  - Secuestro de la libreta de conducir por parte de la policía
+
+Cuando un conductor tiene un incidente, le escribe a Uber por whatsapp.
+
+Uber le encargó a Flipando desarrollar un bot de whatsapp para manejar estas comunicaciones con los clientes de manera automatizada.
+
+
+
+Requerimientos:
+  - Comunicación con conductores: Los conductores reportan incidentes a Uber a través de WhatsApp. 
+    Necesita una forma automatizada de responder a estas comunicaciones.
+  - Cada incidente debe ser documentado adecuadamente para que Uber tome la posta y le solucione el problema.
+
+Elementos NO requeridos:
+  - Lo que pasa después de la conversación
