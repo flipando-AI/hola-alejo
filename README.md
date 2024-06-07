@@ -1,4 +1,4 @@
-# Entrevista Técnica de Flipando a Alejo Galain
+# Entrevista Técnica de Flipando a Kevin
 
 ## Introducción
 Bienvenido a la entrevista técnica de Flipando. En esta carpeta encontrarás las instrucciones y el material necesario para llevar a cabo la entrevista de hoy.
